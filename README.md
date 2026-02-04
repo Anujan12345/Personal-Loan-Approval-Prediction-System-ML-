@@ -89,4 +89,4 @@ These metrics help assess the reliability of predictions before deployment.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Anujan12345/personal-loan-approval-prediction.git
+   git clone https://github.com/Anujan12345/Personal-Loan-Approval-Prediction-System-ML-.git
